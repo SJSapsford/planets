@@ -1,9 +1,7 @@
 Cold and dry, but everything is my favourite colour!
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity
-<<<<<<< HEAD
 An ill-considered change
-=======
 
 
 This is sheeeeeet
@@ -14,5 +12,7 @@ I know!!!!
 So...tell me aboot Justin
 
 He's a cool guy
->>>>>>> 2f296d2c62363a02820d404e5d4e18d960233fe1
-My partner is Sarah - she is cool...most of the time.
+
+
+My partner is Alex - he is shit...most of the time.
+
